@@ -59,7 +59,7 @@
 						});
 
 				// Links.
-					var $nav_a = $nav.find('a');
+					var $nav_a = $nav.find('a.scroll');
 
 					$nav_a
 						.scrolly({
